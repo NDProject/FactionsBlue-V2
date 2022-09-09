@@ -1,0 +1,9 @@
+name: FBPremium
+description: Premium
+version: 1.0
+api-version: 1.13
+main: me.zysea.factions.FactionsBlue
+commands:
+  factions:
+    aliases: [f]
+    description: YOO
